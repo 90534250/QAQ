@@ -1,0 +1,34 @@
+﻿<html>
+<head>
+<title>心得</title>
+
+</head>
+
+<body background="9.jpg">
+
+<a href="https://www.youtube.com/watch?v=1pNpPuR63QU/">PCNET</a>
+
+<a name=90534244-4>
+<font face="標楷體"><h2>心得</h2></font>
+
+<img src="1.png"align=left><br>
+
+
+第一次學習做網頁
+真是不簡單 程式碼看我頭昏眼花的 感謝老師都還會個別教導我
+從無到有  一堆字碼到變成一個完整的網頁真有成就感
+謝謝老師這學期的教導~
+
+
+
+<a href="90534244-1.html">misterdonut堅持的1度</a>
+&nbsp;
+<a href="90534244-2.html">小麥的選擇</a>
+&nbsp;
+<a href="90534244-3.html">misterdonut的美味</a>
+&nbsp;
+<a href="index.html">首頁</a>
+
+
+</body>
+</html>

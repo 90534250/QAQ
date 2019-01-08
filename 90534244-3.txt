@@ -1,0 +1,28 @@
+﻿<html>
+<head>
+
+<title>甜甜圈心得</title>
+</head>
+
+<body background="9.jpg">
+
+<a href="https://www.youtube.com/watch?v=1pNpPuR63QU/">PCNET</a>
+<a name=90534244-3>
+<font face="標楷體"><h2>甜甜圈心得</h2></font>
+
+<img src="2.png"align=left><br>
+第一次吃misterdonut的甜甜圈是吃蜜糖波堤，跟台灣的油炸沾糖的甜甜圈口感味道完全不一樣<br>
+完全驚艷了小時候愛吃甜點的我，又多了一個拉著媽咪說我要吃的選項<br>
+他還有好多種口味，並且不斷推新，還有每季不同的限定口味，每推出一份新的商品我一定都會去吃看看呢!<br>
+
+
+<a href="90534244-1.html">misterdonut堅持的1度</a>
+&nbsp;
+<a href="90534244-2.html">小麥的選擇</a>
+&nbsp;
+<a href="index.html">首頁</a>
+&nbsp;
+<a href="90534244-4.html">心得</a>
+
+</body>
+</html>
